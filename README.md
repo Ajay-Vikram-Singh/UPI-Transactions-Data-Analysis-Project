@@ -14,15 +14,15 @@ The images below are **illustrative layout previews** based on the pages and vis
 
 ### 1. Transaction trend — slicers and line chart
 
-![Transaction trend page preview](images/transaction_trend_preview.png)
+![Transaction trend page preview](https://kommodo.ai/i/HhRSgXr2RCMG49osnYLZ)
 
 ### 2. Transaction breakdown — slicers and column charts
 
-![Transaction breakdown page preview](images/transaction_breakdown_preview.png)
+![Transaction breakdown page preview](https://instasize.com/p/d22502b809973c5d5a88a26d013f711336def1bd43836ebeac3b82e25c7732b8)
 
 ### 3. Transaction details — slicers and matrix
 
-![Transaction matrix page preview](images/transaction_matrix_preview.png)
+![Transaction matrix page preview](https://kommodo.ai/i/hfF7ya90MtKNKKfOp5RZ)
 
 ## 📊 Report Pages
 
